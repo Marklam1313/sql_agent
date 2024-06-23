@@ -1,7 +1,7 @@
 # SQL Agent
 SQL Agent using ChatGPT-4o
 
-This project is to build a SQL agent which could translate any input questions into SQL queries. Then the queries coudl retrieve data from a SQLite database, and answer questions by providing the queries and the answers. 
+This project is to build a SQL agent which could translate any input questions into SQL queries. Then the queries could retrieve data from a SQLite database, and answer questions by providing the queries and the answers. 
 
 ### Installation
 
